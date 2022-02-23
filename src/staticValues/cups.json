@@ -1,0 +1,27 @@
+{
+    "name": "Cups",
+    "measurement": "cup",
+    "staticTableUnits": [
+        {
+            "amount": ".5",
+            "measurment": "cup"
+        },
+        {
+            "amount": "1",
+            "measurment": "cup"
+        },
+        {
+            "amount": "2",
+            "measurment": "cup"
+        },
+        {
+            "amount": "3",
+            "measurment": "cup"
+        }
+    ],
+    "staticUnits": {
+        "Tbsp": "16",
+        "ounce": "8",
+        "ml": "240"
+    }
+}

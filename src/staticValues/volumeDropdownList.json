@@ -1,0 +1,73 @@
+{
+    "name": "volume",
+    "options": [
+        {
+            "label": "mm3",
+            "value": "mm3"
+        },
+        {
+            "label": "cm3",
+            "value": "cm3"
+        },
+        {
+            "label": "ml",
+            "value": "ml"
+        },
+        {
+            "label": "l",
+            "value": "l"
+        },
+        {
+            "label": "kl",
+            "value": "kl"
+        },
+        {
+            "label": "m3",
+            "value": "m3"
+        },
+        {
+            "label": "km3",
+            "value": "km3"
+        },
+        {
+            "label": "tsp",
+            "value": "tsp"
+        },
+        {
+            "label": "Tbs",
+            "value": "Tbs"
+        },
+        {
+            "label": "in3",
+            "value": "in3"
+        },
+        {
+            "label": "fl-oz",
+            "value": "fl-oz"
+        },
+        {
+            "label": "cup",
+            "value": "cup"
+        },
+        {
+            "label": "pnt",
+            "value": "pnt"
+        },
+        {
+            "label": "qt",
+            "value": "qt"
+        },
+        {
+            "label": "gal",
+            "value": "gal"
+        },
+        {
+            "label": "ft3",
+            "value": "ft3"
+        },
+        {
+            "label": "yd3",
+            "value": "yd3"
+        }
+    ]
+}

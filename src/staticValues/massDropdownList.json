@@ -1,0 +1,35 @@
+{
+    "name": "mass",
+    "options": [
+        {
+            "fullname": "Microgram",
+            "label": "mcg (Microgram)",
+            "value": "mcg"
+        },
+        {
+            "fullname": "Milligram",
+            "label": "mg (Milligram)",
+            "value": "mg"
+        },
+        {
+            "fullname": "Gram",
+            "label": "g (Gram)",
+            "value": "g"
+        },
+        {
+            "fullname": "Kilogram",
+            "label": "kg (KiloGram)",
+            "value": "kg"
+        },
+        {
+            "fullname": "Ounces",
+            "label": "oz (Ounces)",
+            "value": "oz"
+        },
+        {
+            "fullname": "Pounds",
+            "label": "lb (Pounds)",
+            "value": "lb"
+        }
+    ]
+}
